@@ -5,7 +5,7 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 
 - 😄 Pronouns: he/is/pepeviyuela 
-![pepe-viyuela-calvo](https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif)
+![pepe-viyuela-calvo](https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif)=250x250
 
 ### 🚀 Skills:
   ![image](https://user-images.githubusercontent.com/71811865/137821057-d4866a0c-6537-4798-b281-39daafb1c23a.png)
