@@ -4,11 +4,12 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 
 
--<img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="50" height = "50"> <img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="50" height = "50"> 
+-<img src ="https://user-images.githubusercontent.com/71811865/137821760-873fb295-6a59-4689-b949-768a89e54ff5.gif" width="50" height = "50"> <img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="50" height = "50"> 
 
 
 ### 🚀 Skills:
-  <img src="https://user-images.githubusercontent.com/71811865/137821057-d4866a0c-6537-4798-b281-39daafb1c23a.png" width ="30" height="30">
+  <img src="https://user-images.githubusercontent.com/71811865/137821057-d4866a0c-6537-4798-b281-39daafb1c23a.png" width ="30" height="30"> <img src = "https://user-images.githubusercontent.com/71811865/137821873-aa46e041-ede5-408c-aea6-2aa7ba4cb03c.png" width ="30" height = "30">
+
 
 
 <!--
