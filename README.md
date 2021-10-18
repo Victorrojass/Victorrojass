@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there I'm Vic Rojas 👋
+I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engineering at University of Cordoba.
+
+
+
+
+- 😄 Pronouns: he/is/pepeviyuela 
+![pepe-viyuela-calvo](https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif)
+
+### 🚀 Skills:
+  ![image](https://user-images.githubusercontent.com/71811865/137821057-d4866a0c-6537-4798-b281-39daafb1c23a.png)
+
 
 <!--
 **Victorrojass/Victorrojass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
