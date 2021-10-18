@@ -4,7 +4,7 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 
 
-- 😄 Pronouns: he/is/pepeviyuela  <img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="40" height = "40">
+-<img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="50" height = "50"> Pronouns: he/is/pepeviyuela  <
 
 
 ### 🚀 Skills:
