@@ -1,5 +1,6 @@
 ### Hi there I'm Vic Rojas 👋
-I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engineering at University of Cordoba.
+I'm Victor Rojas, from Cordoba. 
+Currently studying Computer Engineering at University of Cordoba.
 
 
 
