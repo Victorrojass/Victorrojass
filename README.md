@@ -15,10 +15,9 @@
 
 ### 😝 Chat w/ me:
 
-[<img src="https://user-images.githubusercontent.com/71811865/137822599-2c4269b8-d5a4-4344-a0a6-f8ba5183caed.png" width ="80" height = "30" />](https://twitter.com/BlackSymb) [<img src="https://user-images.githubusercontent.com/71811865/137822956-c0720ac0-9eab-4b63-879b-0fd8da5d6a09.jpg" width ="80" height = "30" />](https://www.instagram.com/victorrojass__/)   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/joinchat/5wWFYbQk4ItlNTE0)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/BlackSymb) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/victorrojass__/)   [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/joinchat/5wWFYbQk4ItlNTE0)
 
 
-
 <!--
 **Victorrojass/Victorrojass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
