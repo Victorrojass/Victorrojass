@@ -8,7 +8,7 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 
 ### 🚀 Skills:
-  <img src="https://user-images.githubusercontent.com/71811865/137821057-d4866a0c-6537-4798-b281-39daafb1c23a.png" width ="30" height="30">   <img src = "https://user-images.githubusercontent.com/71811865/137821873-aa46e041-ede5-408c-aea6-2aa7ba4cb03c.png" width ="30" height = "30">   <img src = "https://user-images.githubusercontent.com/71811865/137822136-f1c9dc71-f3c2-4898-accd-2d5c20e371d8.png" width = "30" heigh = "30">   <img src = "https://user-images.githubusercontent.com/71811865/137823383-7ba547d4-13d2-4937-b349-17e592cb57dc.png" width = "30" heigh = "30">
+  <img src="https://user-images.githubusercontent.com/71811865/137821057-d4866a0c-6537-4798-b281-39daafb1c23a.png" width ="30" height="30">   <img src = "https://user-images.githubusercontent.com/71811865/137821873-aa46e041-ede5-408c-aea6-2aa7ba4cb03c.png" width ="30" height = "30">   <img src = "https://user-images.githubusercontent.com/71811865/137822136-f1c9dc71-f3c2-4898-accd-2d5c20e371d8.png" width = "30" heigh = "30">   <img src = "https://user-images.githubusercontent.com/71811865/137823383-7ba547d4-13d2-4937-b349-17e592cb57dc.png" width = "67" heigh = "30">
 
 
 ### You can find me in:
