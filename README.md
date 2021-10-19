@@ -13,8 +13,7 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 ### You can find me in:
 
-[<img alt="alt_text" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fes%2Fimg%2Ficonos-logotipos-emojis%2Fcompanias-technologicas%2Flogo-twitter&psig=AOvVaw1v4CQ9qPt8TMzC0Za5I9Tr&ust=1634688055681000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDS2NeV1fMCFQAAAAAdAAAAABAD" />](https://twitter.com/BlackSymb)
-
+[<img src="https://user-images.githubusercontent.com/71811865/137822448-667adbd2-4c17-4f9d-a38b-759a13407bca.png" />](https://twitter.com/BlackSymb)!
 
 <!--
 **Victorrojass/Victorrojass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
