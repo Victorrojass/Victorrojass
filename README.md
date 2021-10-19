@@ -4,7 +4,7 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 
 ### Here's my passions:
--<img src ="https://user-images.githubusercontent.com/71811865/137821760-873fb295-6a59-4689-b949-768a89e54ff5.gif" width="50" height = "50">   <img src = "https://user-images.githubusercontent.com/71811865/137822015-66d30827-68b4-4d41-9d75-baebc29e530c.png" width = "50" height="50">   <img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="50" height = "50"> 
+-<img src ="https://user-images.githubusercontent.com/71811865/137821760-873fb295-6a59-4689-b949-768a89e54ff5.gif" width="50" height = "50">        &&        <img src ="https://user-images.githubusercontent.com/71811865/137820352-87435d5e-7d02-4efd-b0f1-441070267872.gif" width="50" height = "50"> 
 
 
 ### 🚀 Skills:
@@ -13,7 +13,7 @@ I'm Victor Rojas, from Cordoba. At this moments I'm a student of Computer Engine
 
 ### You can find me in:
 
-[<img src="https://user-images.githubusercontent.com/71811865/137822448-667adbd2-4c17-4f9d-a38b-759a13407bca.png" />](https://twitter.com/BlackSymb)!
+[<img src="https://user-images.githubusercontent.com/71811865/137822448-667adbd2-4c17-4f9d-a38b-759a13407bca.png" width ="50" height = "50" />](https://twitter.com/BlackSymb)!
 
 <!--
 **Victorrojass/Victorrojass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
